@@ -1,12 +1,11 @@
 # awesome-android-apps
 A curated list of awesome Android apps with great UI and UX
 
-
 ## Tools
 
 <table border="0">
     <tr>
-        <td>
+        <td width="125px" height="125px">
             <img src="https://static-s.aa-cdn.net/img/gp/20600003873635/z7twVD5LOCWKFZJIDD0lBSVSLEBiMfDckTrGK6LzvZggAMj5C4xOifOKgGY2XpcunYU=w300" width="96px" height="96px"/>
         </td>
         <td>
@@ -16,9 +15,8 @@ A curated list of awesome Android apps with great UI and UX
             <p>Perfect app if you want to free up some space and boost your phone</p>
         </td>
     </tr>
-
     <tr>
-        <td>
+        <td width="125px" height="125px">
             <img src="https://lh3.ggpht.com/AoSnmPuG59WRR6nVUCeyYMy2iVSBpgLvy2wIvDMoFiRZEvuQ-uWqguglxN0gXMEnmgg=w300-rw" width="96px" height="96px"/>
         </td>
         <td>
@@ -34,7 +32,7 @@ A curated list of awesome Android apps with great UI and UX
 
 <table border="0">
     <tr>
-        <td>
+        <td width="125px" height="125px">
             <img src="https://lh5.ggpht.com/9TR6bv7m3Gj0AlX_N5wT1yhKJo75eG2Te4hef6TjSe-x3kZBQiGFuXcYfoRcghVuCw=w300-rw" width="96px" height="96px"/>
         </td>
         <td>
@@ -44,9 +42,8 @@ A curated list of awesome Android apps with great UI and UX
             <p>Beautiful Screen Locker with live wallpaper theme transform your screen lock into IOS style</p>
         </td>
     </tr>
-
     <tr>
-        <td>
+        <td width="125px" height="125px">
             <img src="https://static-s.aa-cdn.net/img/gp/20600003484897/4OS4Y-czZxkg5hhMt7U9D4ba7LfhY8wTtExWbSN4jkp-7g-QqsjJLuFYYnHqHONsaxw=w300" width="96px" height="96px"/>
         </td>
         <td>
@@ -56,9 +53,8 @@ A curated list of awesome Android apps with great UI and UX
             <p>Creates lock patterns for use with Android&#x27;s built-in pattern lock</p>
         </td>
     </tr>
-
     <tr>
-        <td>
+        <td width="125px" height="125px">
             <img src="https://static-s.aa-cdn.net/img/gp/20600001958120/ixCcjG9nsHZzHJb-WhU2KWAFj08bwdHxQdFTRma86yn_AXCSzdV0YuHvbDsCnWTWag=w300" width="96px" height="96px"/>
         </td>
         <td>
@@ -68,9 +64,8 @@ A curated list of awesome Android apps with great UI and UX
             <p>Explore a new galaxy with this amazing Galaxy Keyboard theme</p>
         </td>
     </tr>
-
     <tr>
-        <td>
+        <td width="125px" height="125px">
             <img src="https://lh6.ggpht.com/8rOL1KUehIoGSvYpX-BlVUJvmfgtVW7muffC7OzufA1UMbbi5beH9TX-f7ZPnfb1cLA=w300-rw" width="96px" height="96px"/>
         </td>
         <td>
@@ -80,9 +75,8 @@ A curated list of awesome Android apps with great UI and UX
             <p>With this live wallpaper you can customize everything to make your frozen magic unique!</p>
         </td>
     </tr>
-
     <tr>
-        <td>
+        <td width="125px" height="125px">
             <img src="https://static-s.aa-cdn.net/img/gp/20600003853038/LAEaixJYUR3lfaqx3dgKYbxqXz5iwsX6zPBEgCyKytyJph7Bd--pifoxWGHrkAyCl_Y=w300" width="96px" height="96px"/>
         </td>
         <td>
@@ -98,7 +92,7 @@ A curated list of awesome Android apps with great UI and UX
 
 <table border="0">
     <tr>
-        <td>
+        <td width="125px" height="125px">
             <img src="https://static-s.aa-cdn.net/img/gp/20600002278988/YI3Ael_VtY51MhJVfmIsNnlU2w1WwL4_QfdWhBph-ySvkYyCFQ_ZPntPuxNljBG3tEHL=w300" width="96px" height="96px"/>
         </td>
         <td>
@@ -108,9 +102,8 @@ A curated list of awesome Android apps with great UI and UX
             <p>Fancy Pink Keyboard is a cool application which makes your phone keyboard beautiful.</p>
         </td>
     </tr>
-
     <tr>
-        <td>
+        <td width="125px" height="125px">
             <img src="https://static-s.aa-cdn.net/img/gp/20600003853342/9NKFnPnEzHByJUYAT5gRpX37v5NhgG0q9jl72BMeEtKFX6prTnJatYtIqIajmYsR8w=w300" width="96px" height="96px"/>
         </td>
         <td>
@@ -126,7 +119,7 @@ A curated list of awesome Android apps with great UI and UX
 
 <table border="0">
     <tr>
-        <td>
+        <td width="125px" height="125px">
             <img src="https://static-s.aa-cdn.net/img/gp/20600003874070/iB6h9n91k5-LhsAy4RXQ61_OpD_eHiRsDasJlLtPyKc7HQea7uGTTbwXbiCdUp2Glkw=w300" width="96px" height="96px"/>
         </td>
         <td>
@@ -136,9 +129,8 @@ A curated list of awesome Android apps with great UI and UX
             <p>Perfect game to induce little ones to not only learn but enjoy the process of learning</p>
         </td>
     </tr>
-
     <tr>
-        <td>
+        <td width="125px" height="125px">
             <img src="https://lh6.ggpht.com/8_7aqw9pHojaLXWi93ViblgbRtetMIFEUgoAIPIbEO5myUpmvYwMpCEd_HFSRnufdcqx=w300-rw" width="96px" height="96px"/>
         </td>
         <td>
@@ -148,9 +140,8 @@ A curated list of awesome Android apps with great UI and UX
             <p>Puzzle Games is to play puzzle games with your own selected HD photos.</p>
         </td>
     </tr>
-
     <tr>
-        <td>
+        <td width="125px" height="125px">
             <img src="https://static-s.aa-cdn.net/img/gp/20600003443047/FgvZHWimeRime8TsI7PzRXbkPKnc8nLCrTLB7hmUi13pn5CAtGKrG5R8F1_B5V0B8TEN=w300" width="96px" height="96px"/>
         </td>
         <td>
@@ -166,7 +157,7 @@ A curated list of awesome Android apps with great UI and UX
 
 <table border="0">
     <tr>
-        <td>
+        <td width="125px" height="125px">
             <img src="https://static-s.aa-cdn.net/img/gp/20600003593461/dPjKsBSbT1MRXUBNkCXFyZ6GIoaDMVrNIZUBv2zRaPeDoES-nDOqgeNJoRnv5-w8vjo=w300" width="96px" height="96px"/>
         </td>
         <td>
@@ -176,25 +167,13 @@ A curated list of awesome Android apps with great UI and UX
             <p>Photo Editor provide easy to use all function in your hand. You can make your collage photo.</p>
         </td>
     </tr>
-    
-    <tr>
-      <td>
-        <img src="https://static-s.aa-cdn.net/img/gp/20600002048558/9wxGf5fNFRBnsqLonQzPej8dcLCEz5Xd4uFcVcj56js5Kkr7dfFb1J69grDC-Qqb3g=w300" width="96px" height="96px"/>
-    </td>
-    <td>
-      <h2>
-        <a href="http://bit.ly/17TL8eO">Trunx Photo Organizer & Cloud</a>
-      </h2>
-      <p>The photo app that lets you snap, organize and store forever.</p>
-    </td>
-  </tr>
 </table>
 
 ## Family
 
 <table border="0">
     <tr>
-        <td>
+        <td width="125px" height="125px">
             <img src="https://static-s.aa-cdn.net/img/gp/20600003820496/L7AjCNQubniGYlqci0vvyFRxMii6tiAB_HeQWUgJtPHDFpTEjuXS7XO5tdzyQNK9tHA=w300" width="96px" height="96px"/>
         </td>
         <td>
@@ -210,7 +189,7 @@ A curated list of awesome Android apps with great UI and UX
 
 <table border="0">
     <tr>
-        <td>
+        <td width="125px" height="125px">
             <img src="https://static-s.aa-cdn.net/img/gp/20600003835915/-tV0vKsdNxVYHpGX48paw4l0cOPFwZYdPwoeFI1cRmo70D6MWziwK8BbYOSYIMj9cAo=w300" width="96px" height="96px"/>
         </td>
         <td>
@@ -220,9 +199,8 @@ A curated list of awesome Android apps with great UI and UX
             <p>Cats Island contains 20 locations, full of cute kitties and hidden items.</p>
         </td>
     </tr>
-
     <tr>
-        <td>
+        <td width="125px" height="125px">
             <img src="https://static-s.aa-cdn.net/img/gp/20600003747095/O_IZA1W_6WDoWKDi8lFmCX2mh1f6iIy9oYgCu8UEiDWHe5LQjcfP3n11ptMKU_YVy4E=w300" width="96px" height="96px"/>
         </td>
         <td>
@@ -233,7 +211,6 @@ A curated list of awesome Android apps with great UI and UX
         </td>
     </tr>
 </table>
-
 
 # Open Source Apps
 
