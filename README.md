@@ -1,5 +1,5 @@
-# awesome-android-apps
-A curated list of awesome Android apps with great UI and UX
+# Awesome Android Apps
+A curated list of awesome useful Android apps with great UI and UX. Including cool open source apps. Find the best new apps, every day!
 
 ## Tools
 
