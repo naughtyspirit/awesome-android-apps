@@ -26,6 +26,17 @@ A curated list of awesome useful Android apps with great UI and UX. Including co
             <p>Simple LED Flashlight for your device!</p>
         </td>
     </tr>
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://lh5.ggpht.com/B86jR-9W82sEQ0SYWK7tGb9tcRdlg6QQUOeX3aszBT-goaUlOMbs7c7FN_CBDAJjBPz5=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1yUUnpo">ZERO Locker - Theme,Wallpaper</a>
+            </h2>
+            <p>Decorate your phone&#x27;s home screen the way you want!</p>
+        </td>
+    </tr>
 </table>
 
 ## Personalization
@@ -316,113 +327,66 @@ A curated list of awesome useful Android apps with great UI and UX. Including co
     </tr>
 </table>
 
-# Open Source Apps
-
-## Games
+## Education
 
 <table border="0">
-  <tr>
-    <td>
-      <img src="https://static-s.aa-cdn.net/img/gp/20600002100431/1WuAV3KAYHaaVR-_njzGfkSNZlN5N1iBc_CRTsOHngX8TfS9CoYdg2pSVEzs5Ava2cgA=w300" width="96px" height="96px"/>
-    </td>
-    <td>
-      <h2>
-        <a href="bit.ly/1xBFSkT">2048</a>
-      </h2>
-      <p>2048 game for Android.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://static-s.aa-cdn.net/img/gp/20600003085437/5kQ5xQm3ja6MooRhsi99kjfim0bg1e82RoFSQM5vijtjyK8yr-TAQ9qP7KmqyY6J9Qo=w300" width="96px" height="96px"/>
-    </td>
-    <td>
-      <h2>
-        <a href="http://bit.ly/1CjNLzu">24 game</a>
-      </h2>
-      <p>Simple arithmetic game.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://static-s.aa-cdn.net/img/gp/20600000028154/RMhBcH8xY0I2D6nQJrXNvz4JJhLIBJdofBdwEZw2pfsmtuObb1UjIoUq5QMDiu4-fuY=w300" width="96px" height="96px"/>
-    </td>
-    <td>
-      <h2>
-        <a href="http://bit.ly/1ucmgcB">Simon Tatham Puzzles</a>
-      </h2>
-      <p>A port of Simon Tatham's Portable Puzzle Collection, a collection of 34 single-player games.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://static-s.aa-cdn.net/img/gp/20600000804409/-XVwBltRZ0su6-3Hx75aqJXzYK1mF_YsfArc8cYOC2baQacdMEHamdCHU4pySl6hTQ=w300" width="96px" height="96px"/>
-    </td>
-    <td>
-      <h2>
-        <a href="http://bit.ly/1IU2nIj">L9Droid</a>
-      </h2>
-      <p>Download and play games in the Level9 format, including Spectrum snapshots.</p>
-    </td>
-  </tr>
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://lh3.ggpht.com/ZFohWhM3BO5Sy-S0B52G5Z0ZzsCVULHKuv0MfBJGq3KUEWFRNlHFuRPCSSX8f8yi7-Y=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1xY0G7x">Google Classroom</a>
+            </h2>
+            <p>Classroom helps teachers save time, keep classes organized, and improve communication with students.</p>
+        </td>
+    </tr>
 </table>
 
-# Free Wear Apps
+## Music &amp; Audio
 
 <table border="0">
-  <tr>
-    <td>
-      <img src="https://static-s.aa-cdn.net/img/gp/20600003246389/JffUuuqmM0-IEQIsrSPgj2JYu4MKywVe5mjntB67N1fWry2n3F-sZWlkfkWqzgH6nAA=w300" width="96px" height="96px"/>
-    </td>
-    <td>
-      <h2>
-        <a href="http://bit.ly/1ucmikB">Slumber for Android Wear</a>
-      </h2>
-      <p>This simple app shows a black screen while your watch is charging.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://static-s.aa-cdn.net/img/gp/20600003220497/SXNVOo89uCVGvpWkpYe5qF2zAZd2Akb82313Dl82LKgo6g76gziYlJg-awSkuyg8U5o=w300" width="96px" height="96px"/>
-    </td>
-    <td>
-      <h2>
-        <a href="http://bit.ly/17TLdPR">Wear Mini Launcher</a>
-      </h2>
-      <p>It is designed to allow you to quickly launch any app from anywhere from a slide-in menu.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://static-s.aa-cdn.net/img/gp/20600003598458/M3HrdL35Ot8ZXkqNBoMP4dWAKtjG3pTKd-KvA4ik3u-iByr4zLqetTGbxKvOIuHvnSQ=w300" width="96px" height="96px"/>
-    </td>
-    <td>
-      <h2>
-        <a href="http://bit.ly/14O0z6g">Wear Battery Stats</a>
-      </h2>
-      <p>Helps you monitor your Android Wear device battery life.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://static-s.aa-cdn.net/img/gp/20600003219349/XLWJGqx_AOwEKRj8y8YVEtJx5YXQ8AmPYaEMm86QdiD6-y4gVHji9VBMUI_3h7eqNg=w300" width="96px" height="96px"/>
-    </td>
-    <td>
-      <h2>
-        <a href="http://bit.ly/1ucmnEV">Calculator For Android Wear</a>
-      </h2>
-      <p>Perform calculations quickly without using your cell phone.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://static-s.aa-cdn.net/img/gp/20600003213589/a_yddGaujM3sft9kjpwBJFYZz5143fvHbpsBLY94kscfJmzDeguZO4POxKx_yX76tg=w300" width="96px" height="96px"/>
-    </td>
-    <td>
-      <h2>
-        <a href="http://bit.ly/1zodeud">Find My Phone (Android Wear)</a>
-      </h2>
-      <p>Android Wear Watch will buzzing to stop you from going out from your phone.</p>
-    </td>
-  </tr>
-</table>  
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://lh4.ggpht.com/EmZSEPuZx-U4Y3wf7cJBuQi9-E8VFhEqsVLa6Ktb1n9eYBqf0HVYeQn4v-aCyQ_kSW0=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1xY0DIS">Audiomack - New Hip-Hop &amp; EDM</a>
+            </h2>
+            <p>Each day hundreds of artists and music labels add thousands of new songs, albums, and mixtapes.</p>
+        </td>
+    </tr>
+</table>
+
+## Media &amp; Video
+
+<table border="0">
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://lh3.ggpht.com/-PbN6troneoQjhH839rZA3p-yIXYneJkIT8j7Z--F97MAONmt04VfiiAd6ZRvZHy=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1yUUn8Z">Plex for Android</a>
+            </h2>
+            <p>Plex organizes all of your video, music, and photo and streams them to all of your screens.</p>
+        </td>
+    </tr>
+</table>
+
+## Social
+
+<table border="0">
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://lh6.ggpht.com/cgedZVnhp4vKi1TtKPE5zDsy_0wYutPQ6ipNL5zLMcZWSjoEhZA4lhdD1UFqRN_F9T0=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1yUUl0O">ZERO Communication - MMS,SMS</a>
+            </h2>
+            <p>This is the smallest, fastest, most private messaging app for best SMS/MMS experience!</p>
+        </td>
+    </tr>
+</table>
