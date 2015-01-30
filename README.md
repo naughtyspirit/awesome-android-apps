@@ -59,17 +59,6 @@ A curated list of awesome useful Android apps with great UI and UX. Including co
             <p>Fast and easy note taking with beautiful interface</p>
         </td>
     </tr>
-    <tr>
-        <td width="125px" height="125px">
-            <img src="https://lh6.ggpht.com/EXLPFuEbpy_KolFUxOyqtMnxugs4JjW6cVn-z9G_40-gk0rDjWYEndwzvyk8R5SsSHsl=w300" width="96px" height="96px"/>
-        </td>
-        <td>
-            <h2>
-            <a href="">Google Translate</a>
-            </h2>
-            <p>hogg</p>
-        </td>
-    </tr>
 </table>
 
 ## Personalization
@@ -378,17 +367,6 @@ A curated list of awesome useful Android apps with great UI and UX. Including co
     </tr>
     <tr>
         <td width="125px" height="125px">
-            <img src="https://lh3.ggpht.com/7lniaFvXX3bMrzYNIDQdCHyU-EBj0XRb2cC7U3ze2D2qFMY44SkkHO93t-XE2jG3OmQ0=w300" width="96px" height="96px"/>
-        </td>
-        <td>
-            <h2>
-            <a href="">RetroSelfie - Selfies Editor</a>
-            </h2>
-            <p>the mist amazing photo editing app ;)</p>
-        </td>
-    </tr>
-    <tr>
-        <td width="125px" height="125px">
             <img src="https://lh6.ggpht.com/Dy35U3nxFRHWWIoZk9AYcu_Zlb-IuNhX002BzeJsuJwvUN6vBKItW8z3omxI0nOlNKc=w300" width="96px" height="96px"/>
         </td>
         <td>
@@ -574,17 +552,6 @@ A curated list of awesome useful Android apps with great UI and UX. Including co
             <a href="http://bit.ly/1yUUl0O">ZERO Communication - MMS,SMS</a>
             </h2>
             <p>This is the smallest, fastest, most private messaging app for best SMS/MMS experience!</p>
-        </td>
-    </tr>
-    <tr>
-        <td width="125px" height="125px">
-            <img src="https://lh3.ggpht.com/lSLM0xhCA1RZOwaQcjhlwmsvaIQYaP3c5qbDKCgLALhydrgExnaSKZdGa8S3YtRuVA=w300" width="96px" height="96px"/>
-        </td>
-        <td>
-            <h2>
-            <a href="">Twitter</a>
-            </h2>
-            <p>jhgyy</p>
         </td>
     </tr>
 </table>
