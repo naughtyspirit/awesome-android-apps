@@ -511,17 +511,6 @@ A curated list of awesome useful Android apps with great UI and UX. Including co
             <p>This elegant application makes your music experience super cool. </p>
         </td>
     </tr>
-    <tr>
-        <td width="125px" height="125px">
-            <img src="https://lh4.ggpht.com/aRCu__wJE8-cysTI89Ml4KI1WUz9BvsidcQTZsQVQVnX2RRmBNDh9SJeZpHGKdLn6w=w300" width="96px" height="96px"/>
-        </td>
-        <td>
-            <h2>
-            <a href="">Mach Music Player</a>
-            </h2>
-            <p>hkj</p>
-        </td>
-    </tr>
 </table>
 
 ## Media &amp; Video
