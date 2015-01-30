@@ -1,446 +1,232 @@
 # Awesome Android Apps
 A curated list of awesome useful Android apps with great UI and UX. Including cool open source apps. Find the best new apps, every day!
 
-## Finance
+## Tools
 
 <table border="0">
     <tr>
         <td width="125px" height="125px">
-            <img src="http://a2.mzstatic.com/us/r30/Purple3/v4/13/31/85/133185a5-812e-96c2-4a63-f37e5860c55f/icon220x220.png" width="96px" height="96px"/>
+            <img src="https://static-s.aa-cdn.net/img/gp/20600003873635/z7twVD5LOCWKFZJIDD0lBSVSLEBiMfDckTrGK6LzvZggAMj5C4xOifOKgGY2XpcunYU=w300" width="96px" height="96px"/>
         </td>
         <td>
             <h2>
-            <a href="http://bit.ly/1wq0lJ3">Moneythink</a>
+            <a href="http://bit.ly/1zz0bX5">Clean Pal (Pfone Boost)</a>
             </h2>
-            <p>Moneythink challenges you to prove your financial skills.</p>
+            <p>Perfect app if you want to free up some space and boost your phone</p>
         </td>
     </tr>
     <tr>
         <td width="125px" height="125px">
-            <img src="http://a4.mzstatic.com/us/r30/Purple5/v4/7b/41/47/7b414718-032c-7e84-b48b-e017615d816d/icon220x220.png" width="96px" height="96px"/>
+            <img src="https://lh3.ggpht.com/AoSnmPuG59WRR6nVUCeyYMy2iVSBpgLvy2wIvDMoFiRZEvuQ-uWqguglxN0gXMEnmgg=w300-rw" width="96px" height="96px"/>
         </td>
         <td>
             <h2>
-            <a href="http://bit.ly/1wq0jAV">MSN Money</a>
+            <a href="http://bit.ly/1zz0e54">Flashlight</a>
             </h2>
-            <p>Grow your finances and know more about your money with the world�s best financial news and data.</p>
+            <p>Simple LED Flashlight for your device!</p>
         </td>
     </tr>
     <tr>
         <td width="125px" height="125px">
-            <img src="http://a3.mzstatic.com/us/r30/Purple1/v4/ff/5e/a0/ff5ea0c9-f871-ef62-61b4-7e22c1b363c0/icon220x220.jpeg" width="96px" height="96px"/>
+            <img src="https://lh5.ggpht.com/B86jR-9W82sEQ0SYWK7tGb9tcRdlg6QQUOeX3aszBT-goaUlOMbs7c7FN_CBDAJjBPz5=w300" width="96px" height="96px"/>
         </td>
         <td>
             <h2>
-            <a href="http://bit.ly/1zz2Lw2">shakeandpay</a>
+            <a href="http://bit.ly/1yUUnpo">ZERO Locker - Theme,Wallpaper</a>
             </h2>
-            <p>shakeandpay is a easy to use tool to split shared costs with friends or roommates.</p>
+            <p>Decorate your phone&#x27;s home screen the way you want!</p>
         </td>
     </tr>
     <tr>
         <td width="125px" height="125px">
-            <img src="http://a3.mzstatic.com/us/r30/Purple1/v4/3c/8f/32/3c8f3215-323c-0857-0431-41b45699d3b8/icon220x220.png" width="96px" height="96px"/>
+            <img src="https://lh5.ggpht.com/ADgncP6ReRyLr8VBWE6KoB_Yq-QxH_s3JZYz5aMpIOXHQr9SK-ZcqM3p2sJRuyDc5FA=w300" width="96px" height="96px"/>
         </td>
         <td>
             <h2>
-            <a href="http://bit.ly/1JgClB0">BankMobile</a>
+            <a href="http://bit.ly/1D2oKZZ">Super Uninstall Tool</a>
             </h2>
-            <p>The BankMobile App is designed to make banking effortless and fun. </p>
+            <p>Uninstall spammy apps with ease!</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://lh3.ggpht.com/QgrQon8TqOaCI_M5zjqSzIrtLOZ-gks__OG6aK-vjMJCfjYoZ6C1Vngd5v3EkrWc1gQ=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1toBquo">PowerPad Fast Easy Notepad</a>
+            </h2>
+            <p>Fast and easy note taking with beautiful interface</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://lh6.ggpht.com/EXLPFuEbpy_KolFUxOyqtMnxugs4JjW6cVn-z9G_40-gk0rDjWYEndwzvyk8R5SsSHsl=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="">Google Translate</a>
+            </h2>
+            <p>hogg</p>
         </td>
     </tr>
 </table>
 
-## Education
+## Personalization
 
 <table border="0">
     <tr>
         <td width="125px" height="125px">
-            <img src="http://a1.mzstatic.com/us/r30/Purple5/v4/14/f5/d4/14f5d4e1-7dfc-82a0-cbea-574dd87c4b1b/icon220x220.png" width="96px" height="96px"/>
+            <img src="https://lh5.ggpht.com/9TR6bv7m3Gj0AlX_N5wT1yhKJo75eG2Te4hef6TjSe-x3kZBQiGFuXcYfoRcghVuCw=w300-rw" width="96px" height="96px"/>
         </td>
         <td>
             <h2>
-            <a href="http://bit.ly/1zz2KrZ">Endless Wordplay</a>
+            <a href="http://bit.ly/1zz0eSy">Lock screen slider</a>
             </h2>
-            <p>Endless Wordplay is educational and funny app for beginning spellers and early writers.</p>
+            <p>Beautiful Screen Locker with live wallpaper theme transform your screen lock into IOS style</p>
         </td>
     </tr>
     <tr>
         <td width="125px" height="125px">
-            <img src="http://a4.mzstatic.com/us/r30/Purple/v4/e2/9b/1e/e29b1e58-9245-7b70-f2b3-cf4e902d2a08/icon220x220.png" width="96px" height="96px"/>
+            <img src="https://static-s.aa-cdn.net/img/gp/20600003484897/4OS4Y-czZxkg5hhMt7U9D4ba7LfhY8wTtExWbSN4jkp-7g-QqsjJLuFYYnHqHONsaxw=w300" width="96px" height="96px"/>
         </td>
         <td>
             <h2>
-            <a href="http://bit.ly/1JgClRF">20/20 Education</a>
+            <a href="http://bit.ly/1wpYzaL">Lock screen</a>
             </h2>
-            <p>20/20 Education is a suite of Fun Educational Games.</p>
-        </td>
-    </tr>
-</table>
-
-## Catalogs
-
-<table border="0">
-    <tr>
-        <td width="125px" height="125px">
-            <img src="http://a1.mzstatic.com/us/r30/Purple5/v4/da/11/bc/da11bc26-b572-ea29-45ad-a82b8101b243/icon220x220.png" width="96px" height="96px"/>
-        </td>
-        <td>
-            <h2>
-            <a href="http://bit.ly/1zz2Ks5">Tattoos Design</a>
-            </h2>
-            <p>Discover body art you&#x27;ll want to wear forever with Tattoo Design app for iPhone.</p>
-        </td>
-    </tr>
-</table>
-
-## Music
-
-<table border="0">
-    <tr>
-        <td width="125px" height="125px">
-            <img src="http://a5.mzstatic.com/us/r30/Purple3/v4/e8/b4/41/e8b4415c-fb73-ed09-5007-f57401d89ca4/icon220x220.png" width="96px" height="96px"/>
-        </td>
-        <td>
-            <h2>
-            <a href="http://bit.ly/1zz2MjK">MusicKata</a>
-            </h2>
-            <p>MusicKata help student and professional musicians to get the most out of their practice sessions.</p>
+            <p>Creates lock patterns for use with Android&#x27;s built-in pattern lock</p>
         </td>
     </tr>
     <tr>
         <td width="125px" height="125px">
-            <img src="http://a1.mzstatic.com/us/r30/Purple1/v4/fd/8e/57/fd8e57e1-a0f8-68e5-8eb9-ac59fa60c44d/icon220x220.png" width="96px" height="96px"/>
+            <img src="https://static-s.aa-cdn.net/img/gp/20600001958120/ixCcjG9nsHZzHJb-WhU2KWAFj08bwdHxQdFTRma86yn_AXCSzdV0YuHvbDsCnWTWag=w300" width="96px" height="96px"/>
         </td>
         <td>
             <h2>
-            <a href="http://bit.ly/1zz2MA4">ClickaSound free music shared</a>
+            <a href="http://bit.ly/1wpYxzS">Galaxy Keyboard</a>
             </h2>
-            <p>ClickaSound allows you to listen and share free copyleft music available in the Internet.</p>
+            <p>Explore a new galaxy with this amazing Galaxy Keyboard theme</p>
         </td>
     </tr>
     <tr>
         <td width="125px" height="125px">
-            <img src="http://a2.mzstatic.com/us/r30/Purple5/v4/63/28/ca/6328caf9-9f4b-e874-a6c1-06ca84c67204/icon220x220.png" width="96px" height="96px"/>
+            <img src="https://lh6.ggpht.com/8rOL1KUehIoGSvYpX-BlVUJvmfgtVW7muffC7OzufA1UMbbi5beH9TX-f7ZPnfb1cLA=w300-rw" width="96px" height="96px"/>
         </td>
         <td>
             <h2>
-            <a href="http://bit.ly/1yWTyhF">PLAYER - Musician&#x27;s music player</a>
+            <a href="http://bit.ly/1zz0f97">Frozen LWP</a>
             </h2>
-            <p>PLAYER is a revolutionary new app that re-imagines your music collection.</p>
+            <p>With this live wallpaper you can customize everything to make your frozen magic unique!</p>
         </td>
     </tr>
     <tr>
         <td width="125px" height="125px">
-            <img src="http://a4.mzstatic.com/us/r30/Purple3/v4/fd/0d/08/fd0d085d-2982-75de-2aaa-57d70a2c832c/icon220x220.png" width="96px" height="96px"/>
+            <img src="https://static-s.aa-cdn.net/img/gp/20600003853038/LAEaixJYUR3lfaqx3dgKYbxqXz5iwsX6zPBEgCyKytyJph7Bd--pifoxWGHrkAyCl_Y=w300" width="96px" height="96px"/>
         </td>
         <td>
             <h2>
-            <a href="http://bit.ly/1JgClBb">Color Myx</a>
+            <a href="http://bit.ly/1zz0fpN">Military Digital Watch Face</a>
             </h2>
-            <p>Color Myx - Lose yourself in a vibrant world of music and color.</p>
-        </td>
-    </tr>
-</table>
-
-## Books
-
-<table border="0">
-    <tr>
-        <td width="125px" height="125px">
-            <img src="http://a4.mzstatic.com/us/r30/Purple3/v4/2f/62/94/2f6294a2-9113-93b0-926e-eeb88861e5c2/icon220x220.png" width="96px" height="96px"/>
-        </td>
-        <td>
-            <h2>
-            <a href="http://bit.ly/1zz2MA8">Manga Storm CBR - The Ultimate Comic Book Reader</a>
-            </h2>
-            <p>Manga Storm is nice app to read your collection of comics,manga,manwha,webtoons in CBR/CBZ files.</p>
+            <p>Cool Military Watch Face for Android 5</p>
         </td>
     </tr>
     <tr>
         <td width="125px" height="125px">
-            <img src="http://a1.mzstatic.com/us/r30/Purple6/v4/7a/33/40/7a334044-52d8-8a41-bc63-808c90f44847/icon220x220.jpeg" width="96px" height="96px"/>
+            <img src="https://static-s.aa-cdn.net/img/gp/20600003632871/iy7cRNrETyzh1la8WSyiXAtjaV59WdQVMCE5DrAMG5vWhPunaxtlkaQMdcJQfryLLoU=w300" width="96px" height="96px"/>
         </td>
         <td>
             <h2>
-            <a href="http://bit.ly/1JgCnsN">A Christmas Carol</a>
+            <a href="http://bit.ly/1yWYYsR">Clock Neon</a>
             </h2>
-            <p>A Christmas Carol by Secret Attic brings another of Dickens&#x27; classics to your iPad and iPhone.</p>
-        </td>
-    </tr>
-</table>
-
-## Medical
-
-<table border="0">
-    <tr>
-        <td width="125px" height="125px">
-            <img src="http://a3.mzstatic.com/us/r30/Purple3/v4/ed/d5/8a/edd58a27-c0c8-c0e1-1464-55f0c5ad2e28/icon220x220.png" width="96px" height="96px"/>
-        </td>
-        <td>
-            <h2>
-            <a href="http://bit.ly/1zz2KIK">HealthLoop+ MD</a>
-            </h2>
-            <p>HealthLoop is changing how healthcare is delivered.The app try to improve patent satisfaction.</p>
+            <p>This is live Wallpaper which you can customize for your phone</p>
         </td>
     </tr>
     <tr>
         <td width="125px" height="125px">
-            <img src="http://a4.mzstatic.com/us/r30/Purple3/v4/fd/50/a1/fd50a1ed-e728-a9fc-11f3-6b936e46e6d8/icon220x220.jpeg" width="96px" height="96px"/>
+            <img src="https://static-s.aa-cdn.net/img/gp/20600003442803/G8-VQpNN17B2ZzWqEPWxzNHI_XHMfQOggmkGYyavlGNsnHPg2p3nGOeExbwzLnh1Mnc=w300" width="96px" height="96px"/>
         </td>
         <td>
             <h2>
-            <a href="http://bit.ly/1zz2MQD">HELP+</a>
+            <a href="http://bit.ly/1yWYYJq">HD Wallpaper | Live Wallpaper</a>
             </h2>
-            <p>HELP+ App let&#x27;s you search for the appropriate medical service providers in your area.</p>
-        </td>
-    </tr>
-</table>
-
-## Lifestyle
-
-<table border="0">
-    <tr>
-        <td width="125px" height="125px">
-            <img src="http://a3.mzstatic.com/us/r30/Purple1/v4/9c/93/86/9c9386b7-32c2-ddc7-76c4-abf0a66fff55/icon220x220.jpeg" width="96px" height="96px"/>
-        </td>
-        <td>
-            <h2>
-            <a href="http://bit.ly/1zz2KZd">P5D: Kitchen Design 3D</a>
-            </h2>
-            <p>Create your dream kitchen design in minutes with no training and no complicated manuals! iPad only.</p>
+            <p>Thousands wallpaper with HD quality</p>
         </td>
     </tr>
     <tr>
         <td width="125px" height="125px">
-            <img src="http://a5.mzstatic.com/us/r30/Purple3/v4/cb/a7/2d/cba72d44-3319-7fdc-d067-707e7a53c862/icon220x220.png" width="96px" height="96px"/>
+            <img src="https://static-s.aa-cdn.net/img/gp/20600003506281/J1VLwoWmdIc4iYZLLJFNUjdSBFjEUOz7r8AhHAHXnOYlboF-VKgY-elNNaRxeilEcl4=w300" width="96px" height="96px"/>
         </td>
         <td>
             <h2>
-            <a href="http://bit.ly/1JgCl41">Dance Deets</a>
+            <a href="http://bit.ly/1yWZ17V">3D Wallpapers</a>
             </h2>
-            <p>Dance Deets is the best way to find the latest Dance Events anywhere in the world.</p>
+            <p>This is a nice collection of almost 200 3-D wallpapers</p>
         </td>
     </tr>
     <tr>
         <td width="125px" height="125px">
-            <img src="http://a4.mzstatic.com/us/r30/Purple5/v4/b5/a1/74/b5a174e8-0a45-d16c-855e-584c8d68a076/icon220x220.png" width="96px" height="96px"/>
+            <img src="https://lh3.ggpht.com/XS8lt5AUzzuSfzd72TTRuOsHL8lhcqiB9aKZlslR9_Q63S1s2HVAhnRNxzzvWe9bGpc6=w300" width="96px" height="96px"/>
         </td>
         <td>
             <h2>
-            <a href="http://bit.ly/1JgCnJe">testimo</a>
+            <a href="http://bit.ly/1tk7eke">Dear Rose GO Launcher Theme</a>
             </h2>
-            <p>testimo is a free app that lets you send interactions to people.</p>
-        </td>
-    </tr>
-</table>
-
-## Weather
-
-<table border="0">
-    <tr>
-        <td width="125px" height="125px">
-            <img src="http://a1.mzstatic.com/us/r30/Purple3/v4/be/f7/bd/bef7bde4-0ca1-65c7-9d35-133e303baeb9/icon220x220.png" width="96px" height="96px"/>
-        </td>
-        <td>
-            <h2>
-            <a href="http://bit.ly/1zz2MQF">Weather It!</a>
-            </h2>
-            <p>Checking todays Forecast is now fun and personal with &quot;Weather it!&quot;.</p>
-        </td>
-    </tr>
-</table>
-
-## Games
-
-<table border="0">
-    <tr>
-        <td width="125px" height="125px">
-            <img src="http://a2.mzstatic.com/us/r30/Purple1/v4/d2/4c/3e/d24c3e5b-8265-5af1-e717-93c3b7341d12/icon220x220.jpeg" width="96px" height="96px"/>
-        </td>
-        <td>
-            <h2>
-            <a href="http://bit.ly/1zz2LfG">Shadowmatic</a>
-            </h2>
-            <p>Use abstract objects to find recognizable silhouettes. Have fun with Shadowmatic.</p>
+            <p>Get it right now and have a completely new makeover of your Android smartphone.</p>
         </td>
     </tr>
     <tr>
         <td width="125px" height="125px">
-            <img src="http://a4.mzstatic.com/us/r30/Purple3/v4/cf/4f/4d/cf4f4da0-f61f-eb16-f899-8052d6d264f2/icon220x220.png" width="96px" height="96px"/>
+            <img src="https://lh4.ggpht.com/EiqMEAv1pOUSg57qZ9K1ksI58AOGQ_e08pQa_Ws21Sm0zy8PwIkqy8ixXp1fUPSg_ZE=w300" width="96px" height="96px"/>
         </td>
         <td>
             <h2>
-            <a href="http://bit.ly/1JgClB7">Colorder</a>
+            <a href="http://bit.ly/1wAn45m">Mysterious Theme-EmojiKeyboard</a>
             </h2>
-            <p>Colorder - simple and usefull brain-game.</p>
+            <p>The theme is designed for decorating your keyboard.</p>
         </td>
     </tr>
     <tr>
         <td width="125px" height="125px">
-            <img src="http://a1182.phobos.apple.com/us/r30/Purple5/v4/64/2b/06/642b068c-a011-dfea-4d81-8cc641867772/mzl.qpqgbshx.jpg" width="96px" height="96px"/>
+            <img src="https://lh6.ggpht.com/NxfpPjfJlZThbSeIyhl00O-PAKd133pdZ0wh2ANYaK77ClNEgER6k-rvWwx__RD06kRx=w300" width="96px" height="96px"/>
         </td>
         <td>
             <h2>
-            <a href="http://bit.ly/1yUVOUV">Galaxy Feud</a>
+            <a href="http://bit.ly/1wAn6dp">PowerOne Theme-ZERO launcher</a>
             </h2>
-            <p>Battle against friends online in epic battles in space.</p>
-        </td>
-    </tr>
-</table>
-
-## Health &amp; Fitness
-
-<table border="0">
-    <tr>
-        <td width="125px" height="125px">
-            <img src="http://a1.mzstatic.com/us/r30/Purple3/v4/89/fd/24/89fd2408-e05f-48e9-0619-5dd33a8699bb/icon220x220.png" width="96px" height="96px"/>
-        </td>
-        <td>
-            <h2>
-            <a href="http://bit.ly/1zz2MQL">Instant Blood Pressure - Monitor Blood Pressure Using Only Your Phone</a>
-            </h2>
-            <p>Instant Blood Pressure lets you measure your blood pressure using only your iPhone.</p>
+            <p>An awesome way to turn a boring plain mobile interface to a beatiful one.</p>
         </td>
     </tr>
     <tr>
         <td width="125px" height="125px">
-            <img src="http://a3.mzstatic.com/us/r30/Purple1/v4/a4/ac/39/a4ac3981-840f-6681-288a-4231a9e88f5a/icon220x220.png" width="96px" height="96px"/>
+            <img src="https://lh6.ggpht.com/Cnqt-PFq4cKX_mbjizDggfP3lGcsuQgym2ObRGXF1HvzBTiZOVzNkJrK96yF4p1zRtEX=w300" width="96px" height="96px"/>
         </td>
         <td>
             <h2>
-            <a href="http://bit.ly/1JgCkNC">Sunny ~ Sleep Relax Meditate at the Beach with Calm Wave and Ocean Sounds</a>
+            <a href="http://bit.ly/1yJfs0X">Spirit Town GO Launcher Theme</a>
             </h2>
-            <p>Sleep Relax Meditate at the Beach with Calm Wave and Ocean Sounds.</p>
+            <p>Get this launcher right now and have a completely new makeover of your Android phone.</p>
         </td>
     </tr>
     <tr>
         <td width="125px" height="125px">
-            <img src="http://a2.mzstatic.com/us/r30/Purple1/v4/f7/3d/29/f73d2943-3602-e668-84a6-8ec28c38f708/icon220x220.png" width="96px" height="96px"/>
+            <img src="https://lh4.ggpht.com/FAouEVsTPAsBLk0IS1oh7ZAy3OCkK9FSMNaFGVgHjtfJoNKbg5HZL-QgeyiwIAbYgA=w300" width="96px" height="96px"/>
         </td>
         <td>
             <h2>
-            <a href="http://bit.ly/1JgClkp">Dance Fit Studio</a>
+            <a href="http://bit.ly/1yJfplT">Mint Theme for Emoji Keyboard</a>
             </h2>
-            <p>Dance Fit Studio is workout app for health, confidence, weight loss and a lean, toned sexy body!</p>
+            <p>Mint Theme is designed to decorate your keyboard. Try this amazing theme now!</p>
         </td>
     </tr>
     <tr>
         <td width="125px" height="125px">
-            <img src="http://a1.mzstatic.com/us/r30/Purple1/v4/79/90/58/799058e1-cc9f-279d-8559-b7a83db0515a/icon220x220.png" width="96px" height="96px"/>
+            <img src="https://lh3.ggpht.com/Qfa14tPd872H-9_p-F5q94IOkpjsBi9XA79tMsGdIMIOylTFg_eluFCg5ViOeudCRQ=w300" width="96px" height="96px"/>
         </td>
         <td>
             <h2>
-            <a href="http://bit.ly/1JgCncf">Yoga - Swyper</a>
+            <a href="http://bit.ly/1yJfs1b">Magic Light Live Wallpaper</a>
             </h2>
-            <p>Yoga-Swyper - your favorite yogi in one place.</p>
-        </td>
-    </tr>
-    <tr>
-        <td width="125px" height="125px">
-            <img src="http://a1.mzstatic.com/us/r30/Purple5/v4/91/e6/54/91e65490-d317-1906-9703-611b58d77519/icon220x220.png" width="96px" height="96px"/>
-        </td>
-        <td>
-            <h2>
-            <a href="http://bit.ly/1JgCnsx">Calorie Counter - YAZIO</a>
-            </h2>
-            <p>Welcome to a healthier life... with a little help from the YAZIO Calorie Counter &amp; Diet Tracker!</p>
-        </td>
-    </tr>
-</table>
-
-## Photo &amp; Video
-
-<table border="0">
-    <tr>
-        <td width="125px" height="125px">
-            <img src="http://a4.mzstatic.com/us/r30/Purple3/v4/a3/ed/bb/a3edbbfc-4a52-c0f5-50f8-7391055eecb3/icon220x220.png" width="96px" height="96px"/>
-        </td>
-        <td>
-            <h2>
-            <a href="http://bit.ly/1JgClku">Alphabet Art</a>
-            </h2>
-            <p>Be creative, explore, and above all, have fun with Alphabet Art.</p>
-        </td>
-    </tr>
-    <tr>
-        <td width="125px" height="125px">
-            <img src="http://a5.mzstatic.com/us/r30/Purple5/v4/74/a8/0f/74a80fab-9dae-9b63-0cfb-b963fabb0c2b/icon220x220.jpeg" width="96px" height="96px"/>
-        </td>
-        <td>
-            <h2>
-            <a href="http://bit.ly/1JgCnsF">PhotoQ Memory</a>
-            </h2>
-            <p>PhotoQ is a free app for sharing your photos, play and share photo-based games!</p>
-        </td>
-    </tr>
-</table>
-
-## Sports
-
-<table border="0">
-    <tr>
-        <td width="125px" height="125px">
-            <img src="http://a5.mzstatic.com/us/r30/Purple1/v4/03/31/99/033199ba-e72f-6422-a0d8-955de26bdf40/icon220x220.jpeg" width="96px" height="96px"/>
-        </td>
-        <td>
-            <h2>
-            <a href="http://bit.ly/1JgClRz">FootballNOW</a>
-            </h2>
-            <p>FootballNOW is the ultimate source for all your live scores, news and videos.</p>
-        </td>
-    </tr>
-</table>
-
-## Reference
-
-<table border="0">
-    <tr>
-        <td width="125px" height="125px">
-            <img src="http://a2.mzstatic.com/us/r30/Purple1/v4/ea/88/a8/ea88a8da-2b84-f176-ce2e-b7cc99c1fad6/icon220x220.png" width="96px" height="96px"/>
-        </td>
-        <td>
-            <h2>
-            <a href="http://bit.ly/1JgCm7Y">The Handy Weather Answer Book</a>
-            </h2>
-            <p>This resource is an ideal reference for students, teachers, and amateur meteorologists.</p>
-        </td>
-    </tr>
-</table>
-
-## Social Networking
-
-<table border="0">
-    <tr>
-        <td width="125px" height="125px">
-            <img src="http://a2.mzstatic.com/us/r30/Purple3/v4/e9/06/74/e9067469-af19-c3c9-25f4-d33b7d2ee7f2/icon220x220.jpeg" width="96px" height="96px"/>
-        </td>
-        <td>
-            <h2>
-            <a href="http://bit.ly/1JgCnZL">Petzi</a>
-            </h2>
-            <p>This is your very own social network for you and your pets.</p>
-        </td>
-    </tr>
-    <tr>
-        <td width="125px" height="125px">
-            <img src="http://a4.mzstatic.com/us/r30/Purple5/v4/e4/ee/ce/e4eecebe-3f77-20f6-ff88-2120eb27049a/icon220x220.png" width="96px" height="96px"/>
-        </td>
-        <td>
-            <h2>
-            <a href="http://bit.ly/1JgCnZO">MovieChat</a>
-            </h2>
-            <p>MovieChat is the global network for meeting new movie fans.</p>
-        </td>
-    </tr>
-    <tr>
-        <td width="125px" height="125px">
-            <img src="http://a1889.phobos.apple.com/us/r30/Purple1/v4/42/e8/fc/42e8fcd5-f009-b39c-c805-28631ee7de97/mzl.xxqtvhow.png" width="96px" height="96px"/>
-        </td>
-        <td>
-            <h2>
-            <a href="http://bit.ly/1yUVOEv">DilemmaMatch - find new friends, connect with your soulmates!</a>
-            </h2>
-            <p>DilemmaMatch is the perfect app to help you find your &quot;Soulmates&quot;.</p>
+            <p>You like magic. Then try this Magic Light Live Wallpaper!</p>
         </td>
     </tr>
 </table>
@@ -450,46 +236,421 @@ A curated list of awesome useful Android apps with great UI and UX. Including co
 <table border="0">
     <tr>
         <td width="125px" height="125px">
-            <img src="http://a438.phobos.apple.com/us/r30/Purple3/v4/8f/87/de/8f87de4f-e34f-ae30-7224-3e12ea5c28fa/pr_source.jpg?downloadKey=1422290339_2bf0bb9c947995f7df8ee0478825db45" width="96px" height="96px"/>
+            <img src="https://static-s.aa-cdn.net/img/gp/20600002278988/YI3Ael_VtY51MhJVfmIsNnlU2w1WwL4_QfdWhBph-ySvkYyCFQ_ZPntPuxNljBG3tEHL=w300" width="96px" height="96px"/>
         </td>
         <td>
             <h2>
-            <a href="http://bit.ly/1xY1OrO">Quick Downloader Plus - Free</a>
+            <a href="http://bit.ly/1zz0eSG">Pink Keyboard</a>
             </h2>
-            <p>Quick Downloader is a fully featured download manager that allows you to download free files.</p>
+            <p>Fancy Pink Keyboard is a cool application which makes your phone keyboard beautiful.</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://static-s.aa-cdn.net/img/gp/20600003853342/9NKFnPnEzHByJUYAT5gRpX37v5NhgG0q9jl72BMeEtKFX6prTnJatYtIqIajmYsR8w=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1zz0fG5">Fliktu: Share Fast</a>
+            </h2>
+            <p>Fliktu upgrades Android&#x27;s Sharing System to be faster. It does this with three features</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://static-s.aa-cdn.net/img/gp/20600003870924/HSFYTwdewdQBgGey_jKlrI_Cfg9HAEDmOEvKnKMIM7tI2NgbH6DDak7YhHQCzvFsi7aa=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1JgGwwG">iKeyboard Pro - Emoji Keyboard</a>
+            </h2>
+            <p>Bored with your default Android keyboard? Customize your keyboard now with this app!</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://lh4.ggpht.com/N6SwapUL8kubzcCyTw7Zi33gf2RKrYiO-mrkYtVarx8sZHEwMRBMgTs185XOjEaRmQ=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1wAn6do">Tiny Apps (floating)</a>
+            </h2>
+            <p>Tiny Apps are 12 floating apps, shown in small windows and staying on top of any other app.</p>
         </td>
     </tr>
 </table>
 
-## Utilities
+## Puzzle
 
 <table border="0">
     <tr>
         <td width="125px" height="125px">
-            <img src="http://a615.phobos.apple.com/us/r30/Purple5/v4/8a/65/92/8a659259-8d27-5cc2-4aab-876f0174d6b0/pr_source.png?downloadKey=1422290339_2a69281daaaf9cab70417c97b3118455" width="96px" height="96px"/>
+            <img src="https://static-s.aa-cdn.net/img/gp/20600003874070/iB6h9n91k5-LhsAy4RXQ61_OpD_eHiRsDasJlLtPyKc7HQea7uGTTbwXbiCdUp2Glkw=w300" width="96px" height="96px"/>
         </td>
         <td>
             <h2>
-            <a href="http://bit.ly/1xY1MQP">Swap It- Trade and Barter Items and Services for Free</a>
+            <a href="http://bit.ly/1zz0e5c">Puzzles</a>
             </h2>
-            <p>Swap it! - Offer absolutely anything and see what people will give you in exchange.</p>
+            <p>Perfect game to induce little ones to not only learn but enjoy the process of learning</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://lh6.ggpht.com/8_7aqw9pHojaLXWi93ViblgbRtetMIFEUgoAIPIbEO5myUpmvYwMpCEd_HFSRnufdcqx=w300-rw" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1zz0elu">Puzzle Games</a>
+            </h2>
+            <p>Puzzle Games is to play puzzle games with your own selected HD photos.</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://static-s.aa-cdn.net/img/gp/20600003443047/FgvZHWimeRime8TsI7PzRXbkPKnc8nLCrTLB7hmUi13pn5CAtGKrG5R8F1_B5V0B8TEN=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1zz0fpI">Flockers</a>
+            </h2>
+            <p>New from the creators of Worms, comes Flockers, a game splattered full of dark humour.</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://static-s.aa-cdn.net/img/gp/20600003889783/Bl_y_2NGTtDzw1eB09IHrgu6U3KW4__bAftZf4ATHXnMfq4sSF9IBmK-x-R2EoC1KLg=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1yWYV0e">Gemcrafter: Puzzle Journey</a>
+            </h2>
+            <p>Featuring all-new puzzle gameplay: move gems around the game field to match three and craft new. </p>
         </td>
     </tr>
 </table>
 
-## Entertainment
+## Photography
 
 <table border="0">
     <tr>
         <td width="125px" height="125px">
-            <img src="http://a1285.phobos.apple.com/us/r30/Purple1/v4/47/78/13/47781379-326d-6db2-2cdc-bb3d0677e34a/pr_source.png?downloadKey=1422290342_190854680ed042570456fad7572c796b" width="96px" height="96px"/>
+            <img src="https://static-s.aa-cdn.net/img/gp/20600003593461/dPjKsBSbT1MRXUBNkCXFyZ6GIoaDMVrNIZUBv2zRaPeDoES-nDOqgeNJoRnv5-w8vjo=w300" width="96px" height="96px"/>
         </td>
         <td>
             <h2>
-            <a href="http://bit.ly/1xY1OYK">Neeko - Your interactive monster (FREE)</a>
+            <a href="http://bit.ly/1zz0elw">Photo Editor</a>
             </h2>
-            <p>Have you ever wanted to own a monster? This is your chance.</p>
+            <p>Photo Editor provide easy to use all function in your hand. You can make your collage photo.</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://static-s.aa-cdn.net/img/gp/20600001868443/av6hll-Shg_9orfgXQn4ULwnEpG9isn0Zr6iFzCLs2A86ZFzZXuHh2ejm06RO47_AWU=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1yWYVx6">Cute Pictures &amp; Wallpapers</a>
+            </h2>
+            <p>Cute Pictures and Wallpapers for your phone.</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://lh5.ggpht.com/SzRT2CTXxsXlq-cDV7F14GzL8wS5dwVzSiKn8CMLwUCsCFRm3wSTDdl8jNNhXJA_RU8=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1tk7ek6">Pic Grid - Photo Collage Maker</a>
+            </h2>
+            <p>This app will help you to master on creating photo collage. </p>
+        </td>
+    </tr>
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://lh5.ggpht.com/sY4ix8l6KGqH9HY6qCJPrgOcL0AMYihEGwCetVLLav0DsUbi22zJnSpoz4VPND0GvA=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1tk7ek9">Camu</a>
+            </h2>
+            <p>Take perfect photos and videos with the unique live filters.</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://lh3.ggpht.com/7lniaFvXX3bMrzYNIDQdCHyU-EBj0XRb2cC7U3ze2D2qFMY44SkkHO93t-XE2jG3OmQ0=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="">RetroSelfie - Selfies Editor</a>
+            </h2>
+            <p>the mist amazing photo editing app ;)</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://lh6.ggpht.com/Dy35U3nxFRHWWIoZk9AYcu_Zlb-IuNhX002BzeJsuJwvUN6vBKItW8z3omxI0nOlNKc=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1tD6RRT">Photo Editor &amp; Effects Pro</a>
+            </h2>
+            <p>Photo Editor can easily makes you look like a professional.</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://lh4.ggpht.com/h2cGXrnG0Ylxh-Th-XCKOqznWU_XHgZ3B37UxFK9AzO83IhfWtqG4DOcGaeI-Sm9Ug=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1yJfrKB">Animated Nature Frames</a>
+            </h2>
+            <p>Add animated nature frames to your photos !</p>
         </td>
     </tr>
 </table>
+
+## Family
+
+<table border="0">
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://static-s.aa-cdn.net/img/gp/20600003820496/L7AjCNQubniGYlqci0vvyFRxMii6tiAB_HeQWUgJtPHDFpTEjuXS7XO5tdzyQNK9tHA=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1zz0fpQ">Dr. Panda&#x27;s Swimming Pool</a>
+            </h2>
+            <p>Splash and play with five cute baby animals in Dr. Panda&#x27;s Swimming Pool!</p>
+        </td>
+    </tr>
+</table>
+
+## Casual
+
+<table border="0">
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://static-s.aa-cdn.net/img/gp/20600003835915/-tV0vKsdNxVYHpGX48paw4l0cOPFwZYdPwoeFI1cRmo70D6MWziwK8BbYOSYIMj9cAo=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1zz0fGc">Cats Island</a>
+            </h2>
+            <p>Cats Island contains 20 locations, full of cute kitties and hidden items.</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://static-s.aa-cdn.net/img/gp/20600003747095/O_IZA1W_6WDoWKDi8lFmCX2mh1f6iIy9oYgCu8UEiDWHe5LQjcfP3n11ptMKU_YVy4E=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1zz0eC5">Dr. Paw - Crazy Clinic Opening</a>
+            </h2>
+            <p>Care for injured puppies and kitties, fix the turtle&#x27;s broken shell and so much more!</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://static-s.aa-cdn.net/img/gp/20600003767908/eYTRQ2hAlwQv5w5FIwY41tI3Pq6R0-NTRGy9CVa74RlDFJ2A-fmsKhhAvvfVbUUJS34=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1yWYXVV">Hidden Object Show</a>
+            </h2>
+            <p>Take on the challenges of The Hidden Object Show and save your fellow contestants from a gruesome fate!</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://static-s.aa-cdn.net/img/gp/20600003868220/b4xarAw9FezA97G2BY3Oh-yckqO_dW842bgHUp8A9xeDRbsS9E1i66i2jY3jC0_7GlXq=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1JgGwwB">Dragon Mania Legends</a>
+            </h2>
+            <p>Do you like dragons? Then breathe life into your dragons and prepare them for legendary battles! </p>
+        </td>
+    </tr>
+</table>
+
+## Weather
+
+<table border="0">
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://static-s.aa-cdn.net/img/gp/20600003720278/N5QIpZZ_ak5x_aNZjHpM-s1mczgcAiDHb2qM4dElAViUUhHSXU8uf1stzibe18ggJooF=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1yWYYJe">World Weather Clock Widget</a>
+            </h2>
+            <p>Check out the weather forecast from every corner of the world!</p>
+        </td>
+    </tr>
+</table>
+
+## Education
+
+<table border="0">
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://lh3.ggpht.com/ZFohWhM3BO5Sy-S0B52G5Z0ZzsCVULHKuv0MfBJGq3KUEWFRNlHFuRPCSSX8f8yi7-Y=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1xY0G7x">Google Classroom</a>
+            </h2>
+            <p>Classroom helps teachers save time, keep classes organized, and improve communication with students.</p>
+        </td>
+    </tr>
+</table>
+
+## Music &amp; Audio
+
+<table border="0">
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://lh4.ggpht.com/EmZSEPuZx-U4Y3wf7cJBuQi9-E8VFhEqsVLa6Ktb1n9eYBqf0HVYeQn4v-aCyQ_kSW0=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1xY0DIS">Audiomack - New Hip-Hop &amp; EDM</a>
+            </h2>
+            <p>Each day hundreds of artists and music labels add thousands of new songs, albums, and mixtapes.</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://lh4.ggpht.com/meh1jkHc301V3a64Ngn27RBY7wnHE_K503jWB2B8uaci1lTAFf0xMf11aiRuCvDL4Sw=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1wAn4lG">Music Player Audio Player</a>
+            </h2>
+            <p>This elegant application makes your music experience super cool. </p>
+        </td>
+    </tr>
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://lh4.ggpht.com/aRCu__wJE8-cysTI89Ml4KI1WUz9BvsidcQTZsQVQVnX2RRmBNDh9SJeZpHGKdLn6w=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="">Mach Music Player</a>
+            </h2>
+            <p>hkj</p>
+        </td>
+    </tr>
+</table>
+
+## Media &amp; Video
+
+<table border="0">
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://lh3.ggpht.com/-PbN6troneoQjhH839rZA3p-yIXYneJkIT8j7Z--F97MAONmt04VfiiAd6ZRvZHy=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1yUUn8Z">Plex for Android</a>
+            </h2>
+            <p>Plex organizes all of your video, music, and photo and streams them to all of your screens.</p>
+        </td>
+    </tr>
+</table>
+
+## Social
+
+<table border="0">
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://lh6.ggpht.com/cgedZVnhp4vKi1TtKPE5zDsy_0wYutPQ6ipNL5zLMcZWSjoEhZA4lhdD1UFqRN_F9T0=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1yUUl0O">ZERO Communication - MMS,SMS</a>
+            </h2>
+            <p>This is the smallest, fastest, most private messaging app for best SMS/MMS experience!</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://lh3.ggpht.com/lSLM0xhCA1RZOwaQcjhlwmsvaIQYaP3c5qbDKCgLALhydrgExnaSKZdGa8S3YtRuVA=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="">Twitter</a>
+            </h2>
+            <p>jhgyy</p>
+        </td>
+    </tr>
+</table>
+
+## Health &amp; Fitness
+
+<table border="0">
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://lh4.ggpht.com/3AlC1qKfJ_Omxkilq0hCy28ZlQiadkjCYPkyzQH657Zvo5cTdVdlzuKv6mod7ju3iY15=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1tk7e3G">Whole Foods Market</a>
+            </h2>
+            <p>Want easy access to recipes? This app have  3700+ tested recipes and much more.</p>
+        </td>
+    </tr>
+</table>
+
+## Books &amp; Reference
+
+<table border="0">
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://lh5.ggpht.com/fIvp86Huzg2yLv18FBMAyIIFtrxa9d1bE5OehfzvmU9DjPm-cO094oYerpUNL989DhQ=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="">Aldiko Book Reader</a>
+            </h2>
+            <p>jg</p>
+        </td>
+    </tr>
+</table>
+
+## Arcade
+
+<table border="0">
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://lh3.ggpht.com/Ph8XvfIqCZNMBH7ltkulP-iqL4OcmSKArZTj99EVhPSXvaIfEotwVQ8Rt-OfNBou3_8B=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="">Stick Hero</a>
+            </h2>
+            <p>vjh</p>
+        </td>
+    </tr>
+</table>
+
+## Lifestyle
+
+<table border="0">
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://lh4.ggpht.com/85E0KIyScLjN-uazCCuOst3FtP8dABTpBlAgKxLdFc4eZDUyWMNM4o-1QtlqNr-CFQg=w300" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1yJfp5j">Flash LED Light</a>
+            </h2>
+            <p>One of the most elegant and functional Flashlights!</p>
+        </td>
+    </tr>
+</table>
+
 
