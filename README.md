@@ -605,38 +605,6 @@ A curated list of awesome useful Android apps with great UI and UX. Including co
     </tr>
 </table>
 
-## Books &amp; Reference
-
-<table border="0">
-    <tr>
-        <td width="125px" height="125px">
-            <img src="https://lh5.ggpht.com/fIvp86Huzg2yLv18FBMAyIIFtrxa9d1bE5OehfzvmU9DjPm-cO094oYerpUNL989DhQ=w300" width="96px" height="96px"/>
-        </td>
-        <td>
-            <h2>
-            <a href="">Aldiko Book Reader</a>
-            </h2>
-            <p>jg</p>
-        </td>
-    </tr>
-</table>
-
-## Arcade
-
-<table border="0">
-    <tr>
-        <td width="125px" height="125px">
-            <img src="https://lh3.ggpht.com/Ph8XvfIqCZNMBH7ltkulP-iqL4OcmSKArZTj99EVhPSXvaIfEotwVQ8Rt-OfNBou3_8B=w300" width="96px" height="96px"/>
-        </td>
-        <td>
-            <h2>
-            <a href="">Stick Hero</a>
-            </h2>
-            <p>vjh</p>
-        </td>
-    </tr>
-</table>
-
 ## Lifestyle
 
 <table border="0">
